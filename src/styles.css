@@ -1,0 +1,12 @@
+.estiloElemento3{
+    margin: auto;
+    width: 200px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid rgb(191, 160, 232);
+    background-color: rgb(228, 221, 237);
+}
